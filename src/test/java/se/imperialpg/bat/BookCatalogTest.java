@@ -34,7 +34,7 @@ public class BookCatalogTest {
     @Test
     public void testFindBook() {
 		try{
-        	assertEquals(book1, bc.findBook(book1.getTitle()));
+        	assertEquals(book1, bc.findBook("Learning Java"));
 		}
 		catch(BookNotFoundException e){
 			fail();
