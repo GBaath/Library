@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="se.imperialpg.bat.BookTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2026-11-19T14:54:39.765Z" hostname="GBLT" time="0.009">
+  <properties/>
+  <testcase name="test2NonEqualBooks()" classname="se.imperialpg.bat.BookTest" time="0.002"/>
+  <testcase name="booksWithSameIdAndTitleShouldBeEqual()" classname="se.imperialpg.bat.BookTest" time="0.001"/>
+  <testcase name="test2EqualBooks()" classname="se.imperialpg.bat.BookTest" time="0.001"/>
+  <testcase name="booksWithDifferentIdsShouldNotBeEqual()" classname="se.imperialpg.bat.BookTest" time="0.001"/>
+  <testcase name="booksWithSameIdButDifferentTitlesShouldNotBeEqual()" classname="se.imperialpg.bat.BookTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

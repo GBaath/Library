@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="se.imperialpg.bat.BookCatalogTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2026-11-19T14:54:39.616Z" hostname="GBLT" time="0.147">
+  <properties/>
+  <testcase name="testAddABook()" classname="se.imperialpg.bat.BookCatalogTest" time="0.034"/>
+  <testcase name="testFindBook()" classname="se.imperialpg.bat.BookCatalogTest" time="0.006"/>
+  <testcase name="testFindBookIgnoringCase()" classname="se.imperialpg.bat.BookCatalogTest" time="0.001"/>
+  <testcase name="[1] &quot;Learning Java&quot;" classname="se.imperialpg.bat.BookCatalogTest" time="0.012"/>
+  <testcase name="[2] &quot;learning java&quot;" classname="se.imperialpg.bat.BookCatalogTest" time="0.001"/>
+  <testcase name="[3] &quot;LEARNING JAVA&quot;" classname="se.imperialpg.bat.BookCatalogTest" time="0.001"/>
+  <testcase name="shouldThrowExceptionWhenCatalogIsEmpty()" classname="se.imperialpg.bat.BookCatalogTest" time="0.002"/>
+  <testcase name="testFindBookWithExtraSpaces()" classname="se.imperialpg.bat.BookCatalogTest" time="0.001"/>
+  <testcase name="testFindBookThatDoesntExist()" classname="se.imperialpg.bat.BookCatalogTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
