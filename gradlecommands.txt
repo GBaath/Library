@@ -1,0 +1,5 @@
+gradle init skapar nödvänliga filer för gradle repot
+gradle clean build rensar eventuella tidigare rapporter eller byggdata etc. validerar tester, och bygger
+gradle run kör den definerade main klssen enl. build.gradle så man slipper fylla i hel sökvägen med java varje gång jag testar
+behöverinte göra mer tester och sådant eftersom allt var verifierat med maven så det gick fort.
+moddat i build.gradle filen för att definera main class, plugins, och tester med dependencies, jar, och test etc...

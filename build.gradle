@@ -6,6 +6,7 @@ plugins {
     id 'java-library'
     id 'java'
     id 'maven-publish'
+    id 'application'
 }
 
 repositories {
@@ -42,5 +43,10 @@ jar {
 }
 test {
     useJUnitPlatform()
+}
+
+
+application {
+    mainClass = 'se.imperialpg.bat.ui.Main'
 }
 
