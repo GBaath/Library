@@ -1,0 +1,10 @@
+mvn initialize för att skapa alla startfiler för maven
+mvn validate tillse att all filstruktor är korrekt
+mvn test kör tester
+mvn verify bygger oc kör alla tester
+mvn clean städar tempfiler från gammla test rapporter etc.
+mvn package för att compilera, köra alla tester, och bygga jar. behövde inte använda ex mvn install då projektet inte depends on något annat
+
+för slutgilting inlämning körde ock mvn clean package för att se till att allt som packeteras är bara det senaste från nuvarande repo
+
+har även moddat pom.xml för att inkludera mainklassen, surefire plugin, och jar plugin
