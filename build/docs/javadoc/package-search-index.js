@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html","k":"18"},{"l":"se.imperialpg.bat.models"},{"l":"se.imperialpg.bat.ui"},{"l":"se.imperialpg.bat.utilities"}];updateSearchResults();

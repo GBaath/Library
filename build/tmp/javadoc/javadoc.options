@@ -1,0 +1,17 @@
+-classpath 'C:\\Users\\gvb7m\\Documents\\Inamningar\\Library\\build\\classes\\java\\main;C:\\Users\\gvb7m\\Documents\\Inamningar\\Library\\build\\resources\\main'
+-quiet 
+-d 'C:\\Users\\gvb7m\\Documents\\Inamningar\\Library\\build\\docs\\javadoc'
+-windowtitle 'Library 1.0-SNAPSHOT API'
+-doctitle 'Library 1.0-SNAPSHOT API'
+-notimestamp 
+'C:\\Users\\gvb7m\\Documents\\Inamningar\\Library\\src\\main\\java\\se\\imperialpg\\bat\\models\\Book.java'
+'C:\\Users\\gvb7m\\Documents\\Inamningar\\Library\\src\\main\\java\\se\\imperialpg\\bat\\models\\BookCatalog.java'
+'C:\\Users\\gvb7m\\Documents\\Inamningar\\Library\\src\\main\\java\\se\\imperialpg\\bat\\models\\BookNotFoundException.java'
+'C:\\Users\\gvb7m\\Documents\\Inamningar\\Library\\src\\main\\java\\se\\imperialpg\\bat\\models\\Customer.java'
+'C:\\Users\\gvb7m\\Documents\\Inamningar\\Library\\src\\main\\java\\se\\imperialpg\\bat\\models\\Loan.java'
+'C:\\Users\\gvb7m\\Documents\\Inamningar\\Library\\src\\main\\java\\se\\imperialpg\\bat\\models\\LoanAlreadyExistsException.java'
+'C:\\Users\\gvb7m\\Documents\\Inamningar\\Library\\src\\main\\java\\se\\imperialpg\\bat\\models\\LoanNotFoundException.java'
+'C:\\Users\\gvb7m\\Documents\\Inamningar\\Library\\src\\main\\java\\se\\imperialpg\\bat\\models\\Material.java'
+'C:\\Users\\gvb7m\\Documents\\Inamningar\\Library\\src\\main\\java\\se\\imperialpg\\bat\\ui\\Main.java'
+'C:\\Users\\gvb7m\\Documents\\Inamningar\\Library\\src\\main\\java\\se\\imperialpg\\bat\\utilities\\GenderType.java'
+'C:\\Users\\gvb7m\\Documents\\Inamningar\\Library\\src\\main\\java\\se\\imperialpg\\bat\\utilities\\LoanStatus.java'
