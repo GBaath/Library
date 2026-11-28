@@ -1,0 +1,47 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+--no-fonts
+-encoding
+'UTF-8'
+-protected
+-source
+'25'
+-sourcepath
+'C:/Users/gvb7m/Documents/Inamningar/Library/src/main/java'
+-author
+-bottom
+'Copyright &#169; 1980. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/gvb7m/Documents/Inamningar/Library/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Library 1.0-SNAPSHOT API'
+-notimestamp
+-use
+-version
+-windowtitle
+'Library 1.0-SNAPSHOT API'
+se.imperialpg.bat.models
+se.imperialpg.bat.ui
+se.imperialpg.bat.utilities
+C:\Users\gvb7m\Documents\Inamningar\Library\src\main\java = 1794563998429
+C:\Users\gvb7m\Documents\Inamningar\Library\target\reports\apidocs\allclasses-index.html = 1795882075933
+C:\Users\gvb7m\Documents\Inamningar\Library\target\reports\apidocs\allpackages-index.html = 1795882075935
+C:\Users\gvb7m\Documents\Inamningar\Library\target\reports\apidocs\element-list = 1795882075810
+C:\Users\gvb7m\Documents\Inamningar\Library\target\reports\apidocs\help-doc.html = 1795882075960
+C:\Users\gvb7m\Documents\Inamningar\Library\target\reports\apidocs\index-all.html = 1795882075952
+C:\Users\gvb7m\Documents\Inamningar\Library\target\reports\apidocs\index.html = 1795882075917
+C:\Users\gvb7m\Documents\Inamningar\Library\target\reports\apidocs\member-search-index.js = 1795882075940
+C:\Users\gvb7m\Documents\Inamningar\Library\target\reports\apidocs\module-search-index.js = 1795882075937
+C:\Users\gvb7m\Documents\Inamningar\Library\target\reports\apidocs\overview-summary.html = 1795882075956
+C:\Users\gvb7m\Documents\Inamningar\Library\target\reports\apidocs\overview-tree.html = 1795882075914
+C:\Users\gvb7m\Documents\Inamningar\Library\target\reports\apidocs\package-search-index.js = 1795882075938
+C:\Users\gvb7m\Documents\Inamningar\Library\target\reports\apidocs\search.html = 1795882075954
+C:\Users\gvb7m\Documents\Inamningar\Library\target\reports\apidocs\serialized-form.html = 1795882075849
+C:\Users\gvb7m\Documents\Inamningar\Library\target\reports\apidocs\tag-search-index.js = 1795882075941
+C:\Users\gvb7m\Documents\Inamningar\Library\target\reports\apidocs\type-search-index.js = 1795882075939
